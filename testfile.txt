@@ -1,2 +1,6 @@
 created testfile in remote
 added second line
+added third line from cmd
+line
+line4
+line5
